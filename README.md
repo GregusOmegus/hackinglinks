@@ -5,6 +5,8 @@
 * https://foonathan.net/blog/2018/10/17/cmake-warnings.html
 * https://cliutils.gitlab.io/modern-cmake/
 * https://www.walletfox.com/course/cheatsheets_cpp.php
+* https://wiki.documentfoundation.org/Development/Xcode_C%2B%2B_compatibility
+  * Shows what language and library features are in AppleClang versions
 
 ## asm / ELF / low level
 * https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models
