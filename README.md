@@ -5,6 +5,7 @@
 * https://foonathan.net/blog/2018/10/17/cmake-warnings.html
 * https://cliutils.gitlab.io/modern-cmake/
 * https://www.walletfox.com/course/cheatsheets_cpp.php
+* https://monoinfinito.wordpress.com/series/exception-handling-in-c/
 * https://wiki.documentfoundation.org/Development/Xcode_C%2B%2B_compatibility
   * Shows what language and library features are in AppleClang versions
 
