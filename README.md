@@ -7,6 +7,7 @@
 * https://www.walletfox.com/course/cheatsheets_cpp.php
 * https://monoinfinito.wordpress.com/series/exception-handling-in-c/
 * https://wiki.documentfoundation.org/Development/Xcode_C%2B%2B_compatibility -- shows what language and library features are in AppleClang versions
+* https://groups.google.com/a/isocpp.org/forum/#!forum/sg14 -- ISO C++ Study Group 14 Google Group (just an archive as of 2019)
 
 ## asm / ELF / under the hood
 * https://shaharmike.com/cpp/vtable-part1/ -- how clang implements virtual function tables and RTTI
