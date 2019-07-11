@@ -11,6 +11,7 @@
 
 ## asm / ELF / under the hood
 * https://shaharmike.com/cpp/vtable-part1/ -- how clang implements virtual function tables and RTTI
+* https://shaharmike.com/cpp/std-string/ -- exploring std::string
 * https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models
 * https://lwn.net/Articles/276782/ -- Table of contents for 20 part series on linkers
 
