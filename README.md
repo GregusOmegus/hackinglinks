@@ -9,10 +9,11 @@
 * https://wiki.documentfoundation.org/Development/Xcode_C%2B%2B_compatibility -- shows what language and library features are in AppleClang versions
 * https://groups.google.com/a/isocpp.org/forum/#!forum/sg14 -- ISO C++ Study Group 14 Google Group (just an archive as of 2019)
 
-## asm / ELF / under the hood
+## compilers / asm / ELF / under the hood
 * https://shaharmike.com/cpp/vtable-part1/ -- how clang implements virtual function tables and RTTI
 * https://shaharmike.com/cpp/std-string/ -- exploring std::string
 * https://eli.thegreenplace.net/2012/01/03/understanding-the-x64-code-models
+* https://lemire.me/blog/2018/07/25/it-is-more-complicated-than-i-thought-mtune-march-in-gcc/ -- Daniel Lemire blog post on march and mtune in gcc
 * https://lwn.net/Articles/276782/ -- Table of contents for 20 part series on linkers
 
 ## benchmarking / profiling
