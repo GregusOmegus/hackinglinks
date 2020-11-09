@@ -6,6 +6,7 @@
 * https://cliutils.gitlab.io/modern-cmake/
 * https://www.walletfox.com/course/cheatsheets_cpp.php
 * https://monoinfinito.wordpress.com/series/exception-handling-in-c/
+* https://www.fluentcpp.com/2019/07/23/how-to-define-a-global-constant-in-cpp/
 * https://wiki.documentfoundation.org/Development/Xcode_C%2B%2B_compatibility -- shows what language and library features are in AppleClang versions
 * https://groups.google.com/a/isocpp.org/forum/#!forum/sg14 -- ISO C++ Study Group 14 Google Group (just an archive as of 2019)
 
